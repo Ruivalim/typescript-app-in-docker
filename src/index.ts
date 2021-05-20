@@ -1,1 +1,3 @@
-console.log('Typescript boilerplate');
+setInterval(() => {
+    console.log('Typescript Running...');
+}, 3000);
